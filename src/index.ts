@@ -6,5 +6,5 @@ export default R2Explorer({
 	basicAuth: {
 	  username: 'kosame',
 	  password: '1234qwer'
-	// }
+	}
 });
